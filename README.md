@@ -12,6 +12,8 @@ Currently supports:
  * Debian
    - Squeeze
    - Wheezy
+   - Jessie
+   - Stretch
  * Ubuntu
    - Raring
    - Saucy
